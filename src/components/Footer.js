@@ -6,7 +6,7 @@ export default function Footer() {
           © {new Date().getFullYear()} Alina Martynenko
           <a
             className='grey-text right'
-            href='https://github.com/martynenkoAl/react-shop'
+            href='https://github.com/martynenkoAl/react-recepies'
             target='_blank'
             rel='noreferrer'
           >

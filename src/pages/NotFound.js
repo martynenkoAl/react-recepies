@@ -13,7 +13,7 @@ export default function NotFound() {
         type='button'
         aria-label='Вернуться на предыдущую страницу'
       >
-        Назад
+        Back
       </button>
     </>
   );
