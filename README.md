@@ -1,11 +1,3 @@
-# React Recepies Portfolio Project
-
-You can find lots of recepies in different categories
-
-Check it out: https://martynenkoal.github.io/react-recepies/
-![image](https://github.com/martynenkoAl/react-recepies/assets/121212086/1d4fa587-8571-47c0-9933-48cd5877be62)
-
-
 # Проект: Рецепты React
 <img src="https://github.com/martynenkoAl/react-recepies/assets/121212086/1d4fa587-8571-47c0-9933-48cd5877be62" width="600" />
 
